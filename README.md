@@ -73,7 +73,7 @@ The app uses a trained machine learning model (`modelFinal.pkl`) that predicts t
   - Rush hour flag
 
 ### Model Performance:
-- **Algorithm**: XGBoost Regressor
+- **Algorithm**: Gradient Boosting Regressor
 - **R² Score**: ~0.75
 - **RMSE**: ~2.80
 - **MAE**: ~2.04
